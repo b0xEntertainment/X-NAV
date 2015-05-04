@@ -10,19 +10,32 @@ But thought it would be worth to publish the source code :)
 # KEY BINDINGS
 
 Thumbstick Left: Move mouse
+
 RB + Thumbstick Left: Move mouse fast
+
 LB + Thumbstick Left: Move mouse slow
 
+
 Thumbstick Right: Scroll mouse wheel
+
 RB + Thumbstick Right: Scroll fast
+
 LB + Thumbstick Right: Scroll slow
 
+
 RT: Left Click
+
 LT: Right Click
 
+
 Y: Close current window
+
 X: Go to desktop (minimize all)
+
 A: Send ENTER (keyboard)\r\nB: Minimize current window
+
 B: Minimize current window
+
 nStart: Open Manager Window (this window)
+
 Back: Exit program

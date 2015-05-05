@@ -1,5 +1,6 @@
-#include "stdafx.h"
-
+#include <Windows.h>
+#include <Xinput.h>
+#include "XInputController.h"
 
 	
 
